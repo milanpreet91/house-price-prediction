@@ -1,7 +1,4 @@
 # house-price-prediction
-Briefly mention the problem, tools you'll use, and sections (EDA, training, etc.)
-
-Problem:
 This project predicts house prices based on various features using regression models. 
 It is built as part of my machine learning learning journey, applying what I learned from the Supervised ML and Advanced Learning Algorithms courses.
 
